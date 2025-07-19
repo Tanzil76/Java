@@ -9,6 +9,6 @@ class learn{
 System.out.println("Hello world java");
 // ln - next line
 // system - class  out - object of print stream println - method in print stream
-
+//Java varibles - titles of reserved memory location
     }
 }
