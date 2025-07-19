@@ -35,5 +35,18 @@ System.out.println(money);
   //Rule 3- a keyword cannot be used as an identifier
   //Rule 4- the identifiers are case sensitive
   //Rule 5- whitespace is not permitted
+// Data Types
+  // Primitive data types - built in java, hold single values , cannot be divided into simpler data types 
+    // 1.Boolean- true or false possible values 
+    // 2. Byte- byte b = 60;  size: 1 byte or 8 bits    range : -128 to 127
+    // 3. Short- Short S = 100; size : 2 bytes or 16 bits   range: -32,768 to 32,767
+    // 4. int- int a= 1000;    size = 4 bytes or 32 bits  range = -2^31 to 2^32 -1
+    // 5. Long- long l = 123456   size = 8 bytes or 64 bits  range = -2^64 to 2^64-1
+    // 6. Float- float f = 123.456 f; size = 4 bytes or 32 bits
+    // 7. Double- double d = 421.45;     size = 8 bytes
+    // 8. Char- char ch = 'p';   size = 2 bytes or 16 bits
+  //Non primitive data types - user defined, hold memory address of a variable, complex structure
+  
+
     }
 }
