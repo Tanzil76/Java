@@ -46,7 +46,10 @@ System.out.println(money);
     // 7. Double- double d = 421.45;     size = 8 bytes
     // 8. Char- char ch = 'p';   size = 2 bytes or 16 bits
   //Non primitive data types - user defined, hold memory address of a variable, complex structure
-  
+    // 1. Strings
+    // 2. Arrays
+    // 3. Classes
+    // 4. Interfaces
 
     }
 }
