@@ -12,7 +12,7 @@ public class LogicalOperators {
         System.out.println((p>q) || (q>r)); // true
         System.out.println((p<q) || (q<r)); // false
 
-        // ! operator
+        // ! operator(opposite if true then should be false and vice versa)
         System.out.println(!(p==q)); // true
         System.out.println(!(p>q)); // false
     }
