@@ -1,4 +1,4 @@
-/* print the sum of the first n natural numbers, where n is the input */
+/* print the sum of the first n natural numbers, where n is the input3 */
 import java.util.Scanner;
 
 public class whileloop {
