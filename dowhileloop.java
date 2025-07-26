@@ -1,4 +1,6 @@
-/* do-while loop
+/* do-while loop - do-while loop ek control flow statement hai jo Java mein use hota hai jab tumhe ek code block ko kam se kam
+   ek baar chalana ho, aur phir condition ke basis pe usse repeat karna ho. Yani, yeh loop pehle code execute karta hai, phir
+   condition check karta hai. Agar condition true hai, toh loop dobara chalta hai.
  * do {
  * //code
  * }while(condition);
