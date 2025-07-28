@@ -10,7 +10,7 @@ public class problemloop5 {
         int fact = 1;
         for(int i = 1; i <= n; i++){
             fact = fact * i;
-            System.out.println("Fcatorila of " + i + ": " +fact);
+            System.out.println("Fcatorial of " + i + ": " +fact);
         }
     }
 }
