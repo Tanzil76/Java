@@ -1,3 +1,5 @@
+
+// Hollow rectangular pattern
 import java.util.Scanner;
 
 public class Rectangularpattern2 {
