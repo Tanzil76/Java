@@ -9,7 +9,7 @@ public class Triangularpattern2 {
             for(int j = 1; j <= (r+1-i); j++){
                 System.out.print("*");
             }
-            System.out.println();
+            System.out.println("*");
         }    
     }
 }
