@@ -2,6 +2,7 @@ class Sum{
     int add(int a, int b){
         int ans = a + b;
         return ans;
+        // return is a reserved keyword it helps to return value
     }
 }
 
