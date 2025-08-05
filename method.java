@@ -27,6 +27,7 @@
  *   Call a method : to call a method in java, you have to write the method's name followed by two parentheses () and a semicolon ; .
  *                   e.g. sum();
  *   Static keyword - non-access modifier ( single copy for whole class)
+ *    Standard library methods : print() sqrt()  floor() they gives double value
  */
 
 
