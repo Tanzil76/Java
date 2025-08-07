@@ -1,7 +1,9 @@
 // package - collection of similar classes, subpackages , interfaces.
 /*  constructor - special method used to initialize objects. every class has default constructor.
                  constructor name = class name
-                 it has no return type */
+                 it has no return type
+                 default
+                 parameterized*/
 class Student {
     int rollNo;
     String name;
