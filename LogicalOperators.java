@@ -14,7 +14,7 @@ public class LogicalOperators {
 
         // ! operator(opposite if true then should be false and vice versa)
         System.out.println(!(p==q)); // true
-        System.out.println(!(p>q)); // false
+        System.out.println(!(p>q)); // false.
     }
 
     }
